@@ -1,3 +1,5 @@
+import Login from "@/components/organisms/Login";
+
 export default function Home() {
-  return <div>LOGIN FOR</div>;
+  return <Login />;
 }
